@@ -4,12 +4,10 @@
 @import './global';
 @import '@fortawesome/fontawesome-free/css/all.css';
 
-
 .container {
-  min-width: 100vw;
+  width: 100%;
   min-height: 100vh;
   display: flex;
-  // justify-content: center;
   align-items: center;
   flex-direction: column;
   background: linear-gradient(45deg, $bg-color, $bg-color-secondary);
@@ -167,6 +165,5 @@ h1 {
       }
     }
   }
-
   // end todo content
 }
