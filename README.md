@@ -3,11 +3,11 @@ Hi...
 
 for use this project, just run following codes in terminal:
 
-1 fist:
+first:
 ```bash
 npm install
 ```
-2 second:
+second:
 ```bash
 npm run build
 ```
@@ -19,11 +19,11 @@ npm run build
 
 برای استفاده از این پروژه تستی، دستورات زیر را در ترمینال وارد کنید:
 
-1 اول:
+اول:
 ```bash
 npm install
 ```
-2 دوم:
+دوم:
 ```bash
 npm run build
 ```
