@@ -1,30 +1,37 @@
-# todo-with-vanilla-js
-Hi...
+# Todo with Vanilla JS
 
-for use this project, just run following codes in terminal:
+This is a simple Todo application built with Vanilla JavaScript.
 
-first:
+To use this project, please follow the instructions below:
+
+1. Install dependencies by running the following command in the terminal:
 ```bash
 npm install
 ```
-second:
+
+2. Build the project by running the following command:
 ```bash
 npm run build
 ```
-> Note: node and npm must be pre-installed!
+
+> Note: Make sure you have Node.js and npm installed on your system.
 
 <br><hr><br>
 
-سلام...
+# پروژه Todo با استفاده از Vanilla JS
 
-برای استفاده از این پروژه، دستورات زیر را در ترمینال وارد کنید:
+این یک برنامه ساده Todo است که با استفاده از JavaScript خام (Vanilla JavaScript) ساخته شده است.
 
-اول:
+برای استفاده از این پروژه، لطفاً دستورات زیر را دنبال کنید:
+
+1. با اجرای دستور زیر در ترمینال، وابستگی‌ها را نصب کنید:
 ```bash
 npm install
 ```
-دوم:
+
+2. پروژه را با استفاده از دستور زیر بسازید:
 ```bash
 npm run build
 ```
-> نکته: node و npm باید از قبل نصب شده باشند!
+
+> نکته: مطمئن شوید که Node.js و npm را در سیستم خود نصب کرده‌اید.
